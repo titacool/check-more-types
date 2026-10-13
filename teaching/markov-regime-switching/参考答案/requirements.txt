@@ -1,0 +1,6 @@
+# 教学案例依赖。下列版本是编写参考答案时实际跑通的版本，安装时允许使用更新的兼容版本。
+akshare>=1.14
+statsmodels>=0.14
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
